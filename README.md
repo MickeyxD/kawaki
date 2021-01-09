@@ -65,6 +65,10 @@ class Development(Config):
     NO_LOAD = ['translation']
 ```
 
+
+![Deploy](https://heroku.com/deploy?template=https://github.com/AnimeKaizoku/SaitamaRobot.git)
+
+
 If you can't have a config.py file (EG on Heroku), it is also possible to use environment variables.
 So just go and read the config sample file. 
 
